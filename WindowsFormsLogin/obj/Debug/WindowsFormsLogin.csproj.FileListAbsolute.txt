@@ -1,0 +1,11 @@
+c:\users\tassawer\documents\visual studio 2013\Projects\WindowsFormsLogin\WindowsFormsLogin\bin\Debug\WindowsFormsLogin.exe.config
+c:\users\tassawer\documents\visual studio 2013\Projects\WindowsFormsLogin\WindowsFormsLogin\bin\Debug\WindowFormLogin.mdf
+c:\users\tassawer\documents\visual studio 2013\Projects\WindowsFormsLogin\WindowsFormsLogin\bin\Debug\WindowFormLogin_log.ldf
+c:\users\tassawer\documents\visual studio 2013\Projects\WindowsFormsLogin\WindowsFormsLogin\bin\Debug\WindowsFormsLogin.exe
+c:\users\tassawer\documents\visual studio 2013\Projects\WindowsFormsLogin\WindowsFormsLogin\bin\Debug\WindowsFormsLogin.pdb
+c:\users\tassawer\documents\visual studio 2013\Projects\WindowsFormsLogin\WindowsFormsLogin\obj\Debug\WindowsFormsLogin.csprojResolveAssemblyReference.cache
+c:\users\tassawer\documents\visual studio 2013\Projects\WindowsFormsLogin\WindowsFormsLogin\obj\Debug\WindowsFormsLogin.Form1.resources
+c:\users\tassawer\documents\visual studio 2013\Projects\WindowsFormsLogin\WindowsFormsLogin\obj\Debug\WindowsFormsLogin.Properties.Resources.resources
+c:\users\tassawer\documents\visual studio 2013\Projects\WindowsFormsLogin\WindowsFormsLogin\obj\Debug\WindowsFormsLogin.csproj.GenerateResource.Cache
+c:\users\tassawer\documents\visual studio 2013\Projects\WindowsFormsLogin\WindowsFormsLogin\obj\Debug\WindowsFormsLogin.exe
+c:\users\tassawer\documents\visual studio 2013\Projects\WindowsFormsLogin\WindowsFormsLogin\obj\Debug\WindowsFormsLogin.pdb
